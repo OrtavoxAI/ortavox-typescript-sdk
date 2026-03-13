@@ -1,0 +1,9 @@
+{
+    "cliVersion": "2.6.0",
+    "generatorName": "fernapi/fern-typescript-sdk",
+    "generatorVersion": "3.33.1",
+    "generatorConfig": {
+        "namespaceExport": "OrtaVox",
+        "allowCustomFetcher": true
+    }
+}
